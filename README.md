@@ -2,11 +2,13 @@
 What's Included in this repository:
 
 Included in this submission is the folders containing the scripts, prefabs, scenes, and sprites.
-* How to play game yourself:
+
+ How to play game yourself:
 
 * Access the google share drive https://drive.google.com/drive/folders/1A6nmqfXZpyXhraC8qmFeMau13l3AXKUw?usp=drive_link where we have two separate folders '4410_final_unity_package' and '4410_final_executable'.
 * To directly start playing, you can download the entire folder '4410_final_executable' and run 'cse4410_final.exe'. Note: it is necessary to download entire folder or the executable will not run.
 * Alternatively, you can navigate to '4410_final_unity_package' and download the latest unity package 'CSE4410FinalProjpt3_ChrisD.unitypackage' and import this into Unity to make any personal changes, additions, or play game within Unity hub.
+
 Gameplay overview:
 
 * The game is a simple 2D platformer where the objective is to shoot spawning enemies and remain alive as long as possible. The player (stickman) is equipped with projectiles (detergent) and can run and jump on different platforms. It faces three types of opponents which are jerseys, pants, and hats. The jeans and jerseys continuously spawn in different areas and follow predetermined paths either North-South or East-West. The hats are spawned in only once at the beginning of the game and these know the player location and follow it around. Enemies have a health of 1 and once they are hit with detergent they vanish and The score is increased. The player has a health of 5 and loses 1 health each time it makes contact with an enemy. Once health reaches 0 the player is destroyed and there is a prompt asking for user to start game all over.

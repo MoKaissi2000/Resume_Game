@@ -5,7 +5,7 @@ Included in this submission is the folders containing the scripts, prefabs, scen
 
  How to play game yourself:
 
-* Access the google share drive https://drive.google.com/drive/folders/1A6nmqfXZpyXhraC8qmFeMau13l3AXKUw?usp=drive_link where we have two separate folders '4410_final_unity_package' and '4410_final_executable'.
+* Access the google share drive https://drive.google.com/drive/folders/1A6nmqfXZpyXhraC8qmFeMau13l3AXKUw?usp=drive_link where there are two separate folders '4410_final_unity_package' and '4410_final_executable'.
 * To directly start playing, you can download the entire folder '4410_final_executable' and run 'cse4410_final.exe'. Note: it is necessary to download entire folder or the executable will not run.
 * Alternatively, you can navigate to '4410_final_unity_package' and download the latest unity package 'CSE4410FinalProjpt3_ChrisD.unitypackage' and import this into Unity to make any personal changes, additions, or play game within Unity hub.
 

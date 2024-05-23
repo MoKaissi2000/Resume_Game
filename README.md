@@ -1,4 +1,4 @@
-# Resume_Projects
+# Game_Project
 What's Included in this repository:
 
 Included in this submission is the folders containing the scripts, prefabs, scenes, and sprites.
